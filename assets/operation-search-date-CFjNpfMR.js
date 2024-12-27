@@ -1,1 +1,0 @@
-import"./index-DHo9l3z7.js";import{aw as s,r as a}from"./vue-C2mfnOEg.js";const u=s("operation-search-date",()=>{const e=a(""),t=a("");return{startDate:e,endDate:t,setSearchDate:r=>{e.value=r[0],t.value=r[1]}}},{persist:!0});export{u};
